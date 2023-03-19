@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cmoyd76/cmoyd76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Chris  👋 
 
 
-## I'm an Engineer, Husband and DAD:exclamation:
+## I'm an Engineer, Husband and DAD 👪
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking to collaborate with others
@@ -26,6 +24,10 @@ Here are some ideas to get you started:
    - Become a Kafka Jedi
    - Own Kubernetes...
 - ⚡ Fun fact: I love to learn and watching all sports
+- 📫 How to reach me: ...
+   - [website]: https://chrismoyd.com/
+   - [youtube]: https://www.youtube.com/channel/UCIyddKCvYwY2SeRPNGTv_2g
+   - [linkedin]: https://www.linkedin.com/in/chris-moyd-144327123/
 
 ### Languages and Tools:
 
@@ -49,9 +51,7 @@ Here are some ideas to get you started:
 <br />
 <hr />
 
-[website]: https://chrismoyd.com/
-[youtube]: https://www.youtube.com/channel/UCIyddKCvYwY2SeRPNGTv_2g
-[linkedin]: https://www.linkedin.com/in/chris-moyd-144327123/
+
 
 
 
