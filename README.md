@@ -24,10 +24,6 @@ Here are some ideas to get you started:
    - Become a Kafka Jedi
    - Own Kubernetes...
 - ⚡ Fun fact: I love to learn and watching all sports
-- 📫 How to reach me: ...
-   - [website]: https://chrismoyd.com/
-   - [youtube]: https://www.youtube.com/channel/UCIyddKCvYwY2SeRPNGTv_2g
-   - [linkedin]: https://www.linkedin.com/in/chris-moyd-144327123/
 
 ### Languages and Tools:
 
