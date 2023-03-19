@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## I'm an Engineer, Husband and DAD:exclamation:
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 Looking to collaborate with other developers
+- 👯 Looking to collaborate with others
 - 🔭 2023 Goals: 
    - Learn Javascript (Full Stack)... Starting with Vue 3
    - Become a Kafka Jedi
