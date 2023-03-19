@@ -21,8 +21,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking to collaborate with other developers
-- 🥅 2023 Goals: Learn more about Vue 3
-- ⚡ Fun fact: I love to learn and all sports
+- 🔭 2023 Goals: 
+   - Learn Javascript (Full Stack)... Starting with Vue 3
+   - Become a Kafka Jedi
+   - Own Kubernetes...
+- ⚡ Fun fact: I love to learn and watching all sports
 
 ### Languages and Tools:
 
