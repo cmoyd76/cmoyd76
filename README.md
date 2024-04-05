@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 Looking to collaborate with others
-- 🔭 2023 Goals: 
-   - Learn Javascript (Full Stack)... Starting with Vue 3
-   - Become a Kafka Jedi
-   - Own Kubernetes...
+- 🔭 2024 Goals: 
+   - Master Flutter Development
+   - Become a Supabase & FireBase Ninja
+   - Continue to own Kubernetes...
 - ⚡ Fun fact: I love to learn and watching all sports
 
 ### Languages and Tools:
