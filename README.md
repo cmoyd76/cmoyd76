@@ -9,10 +9,10 @@
 Right now, I'm on a thrilling quest 🚀 to unlock the power of AI for **supercharging workforce automation** ⚙️. Think less robot overlords 🤖, more smart assistants 💡 making work easier for everyone! My current adventures include:
 
 * **Agentic AI & Orchestration:** Diving deep into how AI agents think and talk to each other. I'm learning to wield the **OpenAI SDK** 🧠, build dynamic teams with **CrewAI** 🧑‍🤝‍🧑, and choreograph complex tasks with **AutoGen** and **LangChain**. It's like building an AI dream team!
-* **Connecting the Dots:** Figuring out how to 🔌 these brainy agents into real-world business tools using automation wizards ✨ like **n8n** <img src="https://cdn.jsdelivr.net/npm/@n8n_io/n8n-design/dist/assets/n8n-logo.svg" alt="n8n Logo" width="20" height="20" align="absmiddle"> and **Flowise** <img src="https://flowiseai.com/favicon.ico" alt="Flowise Logo" width="20" height="20" align="absmiddle">. Making AI actually *do* stuff!
+* **Connecting the Dots:** Figuring out how to 🔌 these brainy agents into real-world business tools using automation wizards ✨ like **n8n** <img src="https://n8n.io/favicon.ico" width="20" height="20" align="absmiddle"> and **Flowise** <img src="https://flowiseai.com/favicon.ico" alt="Flowise Logo" width="20" height="20" align="absmiddle">. Making AI actually *do* stuff!
 * **Context is 👑 (or Queen!):** Obsessed with **Model Context Protocol (MCP)** & ensuring our AI buddies always have the right info at the right time; no weird hallucinations 👻 allowed!
 * **Speaking Robot (and teaching robots to speak!):** Spending a good chunk of time in the **Natural Language Processing (NLP)** trenches, making sure machines understand us humans better.
-* **Data's Superhighway:** Crafting clever **AI-driven data pipelines** 🛣️ to feed these hungry models 😋, turning raw data into actionable insights ✨.
+* **Data's Superhighway:** Crafting clever **AI-driven data pipelines** to feed these hungry models 😋, turning raw data into actionable insights ✨.
 
 ### 🏗️ My AI Playground's Infrastructure (Because even robots need a home!)
 
@@ -35,7 +35,7 @@ I'm a total learning junkie (seriously, tell me something new!) and a huge fan o
 
 ### 🛠️ My Digital Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,python,typescript,flutter,vue,postgresql,kubernetes,docker,git,github,apachekafka,firebase,supabase,openai,langchain,autogen,crewai,tensorflow,pytorch,huggingface,scikitlearn,n8n,flowise)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,python,typescript,flutter,vue,postgresql,kubernetes,docker,git,github,apachekafka,firebase,supabase,openai,langchain,autogen,crewai,tensorflow,pytorch,huggingface,scikitlearn,n8n,flowise)](#)
 
 ---
 
