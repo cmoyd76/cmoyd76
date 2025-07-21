@@ -1,68 +1,51 @@
-<!--
-**cmoyd76/cmoyd76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! I'm Chris 👋
 
-Here are some ideas to get you started:
+### 🚀 Engineer by trade, Husband & Dad by heart, and now... an AI Explorer! 🤖👨‍👩‍👧‍👦
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm Chris  👋 
+---
 
+### ✨ What's Sparking My Curiosity (and Keeping Me Up At Night!)
 
-## I'm an Engineer, Husband and DAD 👪
+Right now, I'm on a thrilling quest 🚀 to unlock the power of AI for **supercharging workforce automation** ⚙️. Think less robot overlords 🤖, more smart assistants 💡 making work easier for everyone! My current adventures include:
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 Looking to collaborate with others
-- 🔭 2024 Goals: 
-   - Master Flutter Development
-   - Become a Supabase & FireBase Ninja
-   - Continue to own Kubernetes...
-- ⚡ Fun fact: I love to learn and watching all sports
+* **Agentic AI & Orchestration:** Diving deep into how AI agents think and talk to each other. I'm learning to wield the **OpenAI SDK** 🧠, build dynamic teams with **CrewAI** 🧑‍🤝‍🧑, and choreograph complex tasks with **AutoGen** and **LangChain**. It's like building an AI dream team!
+* **Connecting the Dots:** Figuring out how to 🔌 these brainy agents into real-world business tools using automation wizards ✨ like **n8n** <img src="https://cdn.jsdelivr.net/npm/@n8n_io/n8n-design/dist/assets/n8n-logo.svg" alt="n8n Logo" width="20" height="20" align="absmiddle"> and **Flowise** <img src="https://flowiseai.com/favicon.ico" alt="Flowise Logo" width="20" height="20" align="absmiddle">. Making AI actually *do* stuff!
+* **Context is 👑 (or Queen!):** Obsessed with **Model Context Protocol (MCP)** & ensuring our AI buddies always have the right info at the right time; no weird hallucinations 👻 allowed!
+* **Speaking Robot (and teaching robots to speak!):** Spending a good chunk of time in the **Natural Language Processing (NLP)** trenches, making sure machines understand us humans better.
+* **Data's Superhighway:** Crafting clever **AI-driven data pipelines** 🛣️ to feed these hungry models 😋, turning raw data into actionable insights ✨.
 
-### Languages and Tools:
+### 🏗️ My AI Playground's Infrastructure (Because even robots need a home!)
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Vue.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Kafka" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" style="padding-right:10px;" />
-<img align="left" alt="ArgoCD" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<br />
-<hr />
+* **Kubernetes:** Still owning 👑 this space, making sure my AI experiments have all the scalable, resilient infrastructure they could ever dream of ☁️.
+* **Supabase & Firebase:** My go-to backend superheroes 💪 for building speedy, robust platforms to power all these AI innovations.
 
+---
 
+### 🤝 Wanna Build Something Awesome? Let's Connect!
 
+I'm always buzzing 🐝 with new ideas and looking for fellow adventurers 🧑‍🤝‍🧑 to collaborate on exciting projects 💡, especially those with an AI twist 🌀! Whether it's open-source magic ✨ or just a tech chat 💬, hit me up!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chris-moyd)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/moydchris)
+### 🎉 Just for Fun
 
+I'm a total learning junkie (seriously, tell me something new!) and a huge fan of all sports 🏈⚽🏀. Game on!
 
+---
 
-   
-   
-    
-     
-      
-       
-        
-         
-         
-          
-           
-            
-             
+### 🛠️ My Digital Toolbox
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,python,typescript,flutter,vue,postgresql,kubernetes,docker,git,github,apachekafka,firebase,supabase,openai,langchain,autogen,crewai,tensorflow,pytorch,huggingface,scikitlearn,n8n,flowise)](https://skillicons.dev)
+
+---
+
+### 📊 My GitHub Story
+
+[![Chris's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmoyd76&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmoyd76&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🚀 Latest Adventures (Powered by GitHub Actions!)
+
+---
