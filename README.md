@@ -35,7 +35,7 @@ I'm a total learning junkie (seriously, tell me something new!) and a huge fan o
 
 ### 🛠️ My Digital Toolbox
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,python,typescript,flutter,vue,postgresql,kubernetes,docker,git,github,apachekafka,firebase,supabase,openai,langchain,autogen,crewai,tensorflow,pytorch,huggingface,scikitlearn,n8n,flowise)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,python,typescript,flutter,vue,postgresql,kubernetes,docker,git,github,apachekafka,firebase,supabase,openai,langchain,autogen,crewai,tensorflow,pytorch,huggingface,scikitlearn,n8n,flowise)](https://skillicons.dev)
 
 ---
 
